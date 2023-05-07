@@ -72,6 +72,7 @@ $ make install-strip
 ## 3.build jtdx
 
 https://jtdx.freeforums.net/thread/124/raspberry-pi-4-400-installation
+
 https://github.com/jtdx-project/jtdx/blob/master/INSTALL
 
 ```
