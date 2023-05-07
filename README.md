@@ -3,7 +3,8 @@ install jtdx for raspberrypi4(bullseye)
 
 ## 1.package install
 
-https://github.com/jtdx-project/jtdx/blob/master/INSTALL
+ref)
+https://jtdx.freeforums.net/thread/124/raspberry-pi-4-400-installation
 
 ```
 sudo apt-get update
@@ -50,6 +51,7 @@ sudo apt-get install -y libqt5websockets5-dev
 
 ## 2.build hamlib
 
+ref)
 https://github.com/jtdx-project/jtdx/blob/master/INSTALL
 
 ```
@@ -71,8 +73,10 @@ $ make install-strip
 
 ## 3.build jtdx
 
+ref)
 https://jtdx.freeforums.net/thread/124/raspberry-pi-4-400-installation
 
+ref)
 https://github.com/jtdx-project/jtdx/blob/master/INSTALL
 
 ```
